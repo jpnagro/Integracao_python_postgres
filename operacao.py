@@ -1,7 +1,5 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from fastapi import FastAPI
-from pydantic import BaseModel
 import psycopg2
 from datetime import date
 import json
